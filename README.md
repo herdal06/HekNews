@@ -2,7 +2,7 @@
  <img src="https://github.com/kocerenes/FinancialInformationProject/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true"  alt="drawing" />
 </p>
 <p align="center">  
-📰 Hek News is a sample Android project using TMDB API based on MVVM architecture
+📰 Hek News is a sample Android project using News API based on MVVM architecture
 <br/>
 <p align="center">For API Documentation: <a href="https://newsapi.org/docs">Click here</a></p>
 </p>
